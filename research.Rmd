@@ -1,0 +1,113 @@
+---
+title: "Syllabus"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'syllabus.html'))})
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html" 
+---
+
+***
+
+Instructor: [Hongfei Li](https://www.business.uconn.edu/person/hongfei-li/) 
+
+* Email: Hongfei.li@uconn.edu. 
+* Office: BUSN 407 
+* Classroom: BUSN 122
+* Class meets: Mon/Wed 11:00-12:15 pm 
+* Office Hours: Mon/Wed 12:30-1:30 pm
+
+
+***
+
+# Course Description
+
+Information Technology (IT) has transformed all aspects of 21st century business and everyday life. New IT investments continue to be staggering. IT has triggered new forms of organizations; transformed business process innovation; and impacted organizational structure, culture, politics, decision-making and society as a whole. IT is also transforming how physical products are designed, how services are bundled with products, and how individuals interact with businesses and with other individuals. A silent transformation of physical items is occurring as more and more products use embedded IT to improve customer experience and product performance. The pervasiveness of IT is expanding global trade and changing how and where work is performed. 
+The availability of vast amounts of searchable data is changing the nature of the learning required to succeed in traditional business disciplines such as finance, accounting, and marketing. It is vital that future managers – from all majors – have a working knowledge of modern IT, practical experience in its use, and management perspectives on how IT is used to reshape products, services, and organizations. 
+OPIM 3103 covers the use of Microsoft Excel spreadsheets, basic knowledge about databases, and database tools as with Microsoft Access. 
+
+The course focuses on two major goals:
+
+* Introduction to Microsoft Excel and the design of spreadsheets to enable efficient decision making in business situations, through hands-on learning activities; 
+* Introduction to basic knowledge of databases, the design of databases, and database tools such as Microsoft Access to enable efficient data management and reporting in business situations, again through hands-on learning activities; 
+
+***
+
+# Textbooks 
+
+* [Business Information Systems: Custom Edition for University of Connecticut](http://www.pearsoncustom.com/ct/uconn_info_systems/)
+* Publisher: Pearson
+* The print text ISBN is 1323867546 / 9781323867549
+* The e-Text ISBN is 9781323876183
+* You can obtain the textbook from the University Bookstore (UConn Co-op).
+
+
+***
+
+# Computer Requirements 
+
+A laptop is required for the class. To complete this course, each student must have Microsoft Office 2016 installed in your laptop. Students are eligible for Windows Operating Systems and Microsoft Office 2016. This software is distributed through http://uconn.onthehub.com/ (Don’t Install Office from Office365!) Students who need help or have issues with their laptops and software can go to UITS Help Center for assistance: http://helpcenter.uconn.edu/  
+ 
+Another option for those who prefer not to install the software is to connect to UConn’s SkyBox from http://skybox.uconn.edu. You need to first install the VMware client. The instructions are well documented on the website. You can also access SkyBox online using your browser. To save files from SkyBox, you can use an USB device or save it to the P: drive. 
+Please note: if you use this option, you are running a risk of not being able to access the software in the case the network is down. 
+
+
+***
+
+# Grading
+
+### Exams
+There will be one in-class midterm and one final exam. Exams are non-cumulative but you need to know the basic knowledge of Excel for the final exam. The final exam will take place in the Final Exams week as arranged by the university. All exams are hands-on exams to be completed on laptops. These exams test your Excel and Database skills to solve business problems. 
+
+Students must attend exams on time. If you miss any exam due to extenuating circumstances (e.g. serious illness), you must notify the professor at the earliest possible time and provider proper documentation. In the case of serious illness, a doctor’s note stating that it was impossible for you to attend the exam because of illness is expected. A slip showing that you visited the health center is not sufficient. Failure to comply with the rules will forfeit your chance to take a makeup exam. 
+ 
+Final Exam Policy: In accordance with UConn policy, students are required to be available for their final exam and/or complete any assessment during the time stated. If you have a conflict with this time you must obtain official permission to schedule a make-up exam with the Office of Student Support and Advocacy (OSSA). If permission is granted, OSSA will notify the instructor. Please note that vacations, previously purchased tickets or reservations, graduations, social events, misreading the assessment schedule, and oversleeping are not viable reasons for rescheduling a final.
+
+### Assignment
+There will be two homework assignments (one for Excel, one for Access) throughout the semester. Late assignments: deliverables handed in after but within 24 hours of the due date/time will receive half credit. Deliverables will not be accepted more than 24 hours after the due date.  
+
+### Class Participation 
+Class participation is required and will be evaluated by having in-class assignments/quizzes that need to be handed at the end of the session. 
+
+### CIMBA (Career Information Management Business Analytic)
+
+CIMBA event is scheduled to be held in the Rome Ballroom on Tuesday 10/16, 5:30 – 8:00 pm. 
+
+Here is the breakdown of how grades will be evaluated:  
+
+
+***
+
+# Students with Disabilities
+
+Please contact us during office hours to discuss academic accommodations that may be needed during the semester due to a documented disability. If you have a disability for which you wish to request academic accommodations and have not contacted the Center for Students with Disabilities (CSD), please do so as soon as possible. The CSD engages in an interactive process with each student and reviews requests for accommodations on an individualized, case-by-case basis. The CSD collaborates with students and their faculty to coordinate approved accommodations and services. The CSD is located in Wilbur Cross, Room 204 and can be reached at (860) 486-2020 or at csd@uconn.edu. Detailed information regarding the process to request accommodations is available on the CSD website at www.csd.uconn.edu. 
+
+***
+
+# Academic Dishonesty Statement
+
+Behavior that appears to be cheating cannot and will not be tolerated and will be punished appropriately (from earning NO CREDIT on an examination to a failing grade in the class.)  
+Behavior that appears to be cheating should be prevented by students and/or reported to the instructors. For every quiz and test there will be at least two different versions, and different versions will be printed on different colored paper, allowing the instructors to visually verify that adjacent students take different versions. This is designed to nullify any benefit of looking at an adjacent student's answers. However, if a student is foolish enough to write down an answer that could only apply to a different version of the quiz/test, that student will automatically receive a failing grade on that quiz/test.  
+
+* [School of Business Academic Honesty Statement](https://users.business.uconn.edu/bday/Honesty.html). 
+
+
+*** 
+# Tentative Schedule
+
+
+***
+
+# Attendence 
+
+You are expected to attend all lectures and discussions. Failure to do so may not have a direct effect on your course grade, but will likely have a significant indirect effect. Any known or potential extracurricular conflicts should be discussed in person with the instructor during the first week of classes, or as soon as they arise.
+
+*** 
+
+# Disclaimer
+
+The instructors reserve the right to amend, adjust, or otherwise modify this course outline at any time during the course. The students will be notified in a timely fashion of any modification, by email or announcement in class.  
