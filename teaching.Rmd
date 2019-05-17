@@ -1,5 +1,5 @@
 ---
-title: "Weekly Lecture Notes"
+title: "Teaching"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -13,7 +13,7 @@ output:
       in_header: "favicon.html"
 ---
 
-The lecture notes combine Professor [Bob Day](https://users.business.uconn.edu/bday/)’s slides and my own thinking. Thanks a lot to Professor Bob Day for his unselfish help!
+I have always dreamed of becoming a good teacher since I applied for the PhD program. During my PhD career, I have taught two different courses and have been the teaching assistant for two different courses. During each class, I have a strong passion and feel obliged to make the class productive, attractive, and impressive.
 
 ```{r, include = FALSE}
 totalweeks = 17
@@ -21,14 +21,93 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
 ```
 
 ***
-Lecture 1: [**Decision Tool**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
 
-Lecture 2: [**Forecasting**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+## Teaching Experience
 
-Lecture 3: [**Project Management**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* Operations Management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 
+    * Spring 2018
+    * School of Business, University of Connecticut
+    * class size: 136 
+    * Teaching evaluation: 4 out of 5 
+    * Main Contents
+        * Decision-making tools 
+        * Inventory management 
+        * Linear programming
+        * Forecasting
+        
+* Operations Management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 
+    * Summer 2018
+    * School of Business, University of Connecticut
+    * class size: 15 
+    * Teaching evaluation: 5 out of 5 
 
-Lecture 4: [**Inventory Management**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* Business Information Systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)) 
+    * Fall 2018
+    * School of Business, University of Connecticut
+    * class size: 41 
+    * Teaching evaluation: 3 out of 5 
+    * Main Contents
+        * SQL 
+        * Microsoft Access 
+        * Excel
+        * Database Design
+        * Introduction to R
 
-Lecture 5: [**Linear Programming**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+***
+## Teaching Assistant
 
-Lecture 6: [**Introduction to Monte Carlo Simulation**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* Business Information Systems
+    * Fall 2015, Spring 2016, Fall 2016, Spring 2017
+    * School of Business, University of Connecticut
+
+* Operations Management
+    * Fall 2017
+    * School of Business, University of Connecticut
+
+
+***
+
+## Teaching Interest
+
+I am interested in technical courses related to mathematics, statistics, econometrics, and computer language in business application. The technical knowledge can help students thoroughly understand the business tools they are using. In my opinion, although business students do not have to fully master the very basic details behind the technical tools, statistical software, or well-built packages, they at least need to know what happens behind the technique and how to interpret the analysis results.
+
+* Business Database Systems 
+
+    * I have considerable experience in database design and SQL. I designed a website database in 2011 when I was an undergraduate and have been using SQL ever since. I once included SQL into my class (OPIM 3103) and I used SQL to collect data in my paper on StackOverflow.
+    
+*	Data Visualization 
+    * Most of my research projects are data-driven. Visualization is usually the first step to get into data. I have done much work on data visualization with R, Tableau, and Excel. 
+    
+*	Business Statistics 
+    * I am interested in mathematical statistics and applied statistics and I have taken or audited most of the graduate-level statistic courses. One of my papers is about statistical computing. Several projects in my GitHub show evidence about my skills in applied statistics. 
+    
+*	Machine Learning 
+    * Applying deep learning into business contexts is one of my research interests. I am experienced in Python coding, especially web-scraping and text mining such as sentiment analysis and emotion analysis. I also have experience in deep learning. One of my projects uses Generative Adversarial Networks (GANs) to predict images.
+    
+*	Econometrics 
+    * All my research papers have adopted econometrics tools. I have been studying econometrics since the beginning of my PhD program. My further study on statistics such as mathematics statistics and linear model has deepened my understanding of econometrics. 
+
+***
+
+## Lecture Design
+
+* Reliability
+    * Reliability means all the contents I teach should be as precise and correct as possible. To guarantee reliability, I always make good preparations before class and look up authorized textbooks and online materials.
+
+* Absorbability 
+    * Absorbability means most of the students can follow my lecture provided that the lecture contents are in accordance with the course requirement. Teaching is not about how much I give to my students, but about how much they can get from my lectures. 
+
+* Expandability   
+    * Expandability means that I need to teach not only the contents in textbooks, but also the most up to date content. I do not teach students “dead knowledge” but teach them to think critically. For example, when I teach inventory management, the inventory model becomes more complicated as assumptions are relaxed, so I take this opportunity to let them know why people need to make assumptions in business context and why assumptions are important but at the same time noteworthy.
+
+***
+
+## Teaching Philosophy
+
+* To be inspiring inside classroom 
+    * To enlighten students' interest inside the class, I usually start my class with a practical problem in a business context and induce students to think about how to solve this problem. An interesting story can always motivate students to think and follow my steps. Then I abstract the business problem to a technical problem and introduce the students the technical tools such as mathematics and statistics. Next, I will show them how to solve the problem with technical tools. At last, I will bring them back to practice and discuss the application, limitation, and some other extension knowledge.
+    
+* To be responsible outside classroom
+    * Outside the class, I never miss any students' emails and guarantee to reply to them in time. I keep regular office hours and always add extra office hours before exams. I am kind to all students, but rigorous in creating a fair class environment for everyone.
+    
+
