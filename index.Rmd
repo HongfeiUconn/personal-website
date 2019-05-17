@@ -12,41 +12,46 @@ output:
   html_document:
     includes:
       in_header: "favicon.html"
+
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
+
+***
 ## About Me
 
-This the official website of OPIM 3103, Fall 2018. Here is some basic info about our course:
+<div class = "row">
+<div class = "col-md-6">
+```{r, out.width = '70%', out.extra='style="float: left"', echo=FALSE}
+knitr::include_graphics("hongfei.jpg")
+```
+</div>
+<div class = "col-md-6">
+My name is Hongfei Li... [CV](#CV.pdf)
+</div>
+</div>
+
+
+***
 
 \vspace{1cm}
 
-* Lectures: (__Please go to your registered section!__)
-    * Excel
-        * Formula and Functions
-        * Charts
-        * Subtotals, PivotTables, PivotCharts
-        * Specialized Functions
-        * Templates, Styles, and Macros
-    * Database
-        * Introduction to Access
-        * Rational Databases
-        * Select Queries
-        * Data Validation and Data Analysis
-        * Action Queries
-        * Database Theories
+## Education Background
+    
+  * Ph.D., Sep. 2015 - Present
+      * Major: Information Systems
+      * [Department of Operations and Information Management](https://opim.business.uconn.edu/)
+      * [School of Business](https://www.business.uconn.edu/)
+      * [University of Connecticut](https://uconn.edu/)
+  * M.S., Sep. 2013 - Jun. 2015
+      * Major: Information Science
+      * [School of Information Resource Management](http://sirm.ruc.edu.cn/)
+      * [Renmin University of China](https://www.ruc.edu.cn/en)
+  * B.S., Sep. 2009 - Jun. 2013
+      * Information Management and Information Systems
+      * [School of Information Resource Management](http://sirm.ruc.edu.cn/)
+      * [Renmin University of China](https://www.ruc.edu.cn/en)
 
-
-
-\vspace{1cm}
-
-* Office hours:
-    * Mon/Wed 12:30-1:30 pm (BUSN 407E)
-
-\vspace{1cm}
-
-### [CV](/favicon.ico/)
-
-The announcement will keep updating during the whole semester.
-
-\vspace{1cm}

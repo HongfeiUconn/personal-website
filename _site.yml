@@ -1,6 +1,6 @@
 name: "Hongfei Li's Website"
 navbar:
-  title: "Hongfei Li"
+  title: "Hongfei Li's Website"
   left:
     - text: "Home"
       href: index.html
