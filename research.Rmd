@@ -43,23 +43,4 @@ My research interest focuses on three aspects. First, I am interested in studyin
 * “The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge,” (with Jing Peng and Ramesh Shankar).
 * “What Can Images Tell Us: A Prediction Study based on Facial Analysis,” (with Fangda Han, Shun-Yang Lee, and Jing Peng).
 
-***
-
-## Presentations
-
-* Invited Presentation: “Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform”, INFORMS Annual Meeting (Session: Social Media Analytics I), Houston, Texas, October 22-25, 2017.
-
-* Invited Presentation: “Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities”, SCECR 2018 (Session: Crowds), Rotterdam, Netherlands, June 18-19, 2018.
-
-* Invited Presentation: “Online Diaries and Risky Products”, CIST 2018 (Session: Healthcare), Phoenix, Arizona, November 3-4, 2018.
-
-* Invited Presentation: “Online Diaries and Professional Service”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
-
-* Invited Presentation: “The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
-
-* Invited Presentation: “A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
-
-* Invited Presentation: “What Can Images Tell Us: A Prediction Study based on Facial Analysis”, INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
-
-* Invited Presentation: “Disentangling the Effect of Longitudinal Consumer Reviews on Professional Service”, INFORMS Annual Meeting (Session: Business Transformation in the Age of Analytics), Seattle, Washington, October 20-23, 2019.
 

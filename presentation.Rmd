@@ -16,14 +16,21 @@ output:
 Homework is not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
 
 ***
-Decision Tool: [**Problem Set 1**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+## Invited Presentations
 
-Forecasting: [**Problem Set 2**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* “Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform”, INFORMS Annual Meeting (Session: Social Media Analytics I), Houston, Texas, October 22-25, 2017.
 
-Project Management: [**Problem Set 3**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* “Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities”, SCECR 2018 (Session: Crowds), Rotterdam, Netherlands, June 18-19, 2018.
 
-Inventory Management: [**Problem Set 4**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* “Online Diaries and Risky Products”, CIST 2018 (Session: Healthcare), Phoenix, Arizona, November 3-4, 2018.
 
-Linear Programming: [**Problem Set 5**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* “Online Diaries and Professional Service”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
 
-Monte Carlo Simulation: [**Problem Set 6**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+* “The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+
+* “A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+
+* “What Can Images Tell Us: A Prediction Study based on Facial Analysis”, INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
+
+* “Disentangling the Effect of Longitudinal Consumer Reviews on Professional Service”, INFORMS Annual Meeting (Session: Business Transformation in the Age of Analytics), Seattle, Washington, October 20-23, 2019.
+
