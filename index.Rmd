@@ -5,7 +5,7 @@ knit: (function(input_file, encoding) {
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-author: "Operations and Information Management, School of Business, University of Connecticut, [Hongfei Li](https://www.business.uconn.edu/person/hongfei-li/){target='_blank'}"
+author: "Operations and Information Management, School of Business, University of Connecticut"
 date: "Last Updated: `r format(Sys.time(), '%B %d, %Y')`"
 fontsize: 12pt
 output: 
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ***
-## About Me
+## About Me (<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>)
 
 <div class = "row">
 <div class = "col-md-6">
@@ -30,7 +30,7 @@ knitr::include_graphics("hongfei.jpg")
 ```
 </div>
 <div class = "col-md-6">
-My name is Hongfei Li... [CV](#CV.pdf)
+Hongfei Li is a fourth-year Ph.D. student from Department of Operations and Information Management. His current research focuses on three main streams: causal inference in two-sided platforms, artificial intelligence adoption in professional service, and statistical computing in information systems. He has one paper under the second-round review in ACM Transaction in MIS. He also has two papers under first-round review in Information Systems Research and Management Science. During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
 </div>
 </div>
 
