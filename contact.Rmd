@@ -1,28 +1,31 @@
 ---
-title: "Quiz Preparations"
+title: "Contact"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'quiz.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'contact.html'))})
 date: "Last Updated: `r format(Sys.time(), '%B %e, %Y')`"
 fontsize: 12pt
 output: 
   html_document:
-    toc: true
     includes:
       in_header: "favicon.html" 
 ---
 
-The problems in each quiz are similar to the following practice problems. Please try your best to solve them by yourself and the solutions are also provided in each file.
-
 ***
-Decision Tool: [**Quiz 1**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
 
-Forecasting: [**Quiz 2**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+## Email
 
-Project Management: [**Quiz 3**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+<a href="mailto:hongfei.li@uconn.edu">hongfei.li@uconn.edu</a>
 
-Inventory Management: [**Quiz 4**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+## Address
 
-Linear Programming: [**Quiz 5**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+UConn School of Business, OPIM Department
+
+2100 Hillside Road, Unit 1041
+Storrs, CT 06269
+
+## Tel
+
++1(860)617-9457

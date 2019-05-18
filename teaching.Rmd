@@ -4,7 +4,7 @@ knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'lecture.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'teaching.html'))})
 date: "Last Updated: `r format(Sys.time(), '%B %e, %Y')`"
 fontsize: 12pt
 output: 
