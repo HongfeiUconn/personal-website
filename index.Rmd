@@ -42,12 +42,12 @@ Hongfei Li is a fourth-year Ph.D. student from Department of Operations and Info
 ## Education Background
     
   * Ph.D., Sep. 2015 - Present
-      * Major: Information Systems
+      * Information Systems
       * [Department of Operations and Information Management](https://opim.business.uconn.edu/)
       * [School of Business](https://www.business.uconn.edu/)
       * [University of Connecticut](https://uconn.edu/)
   * M.S., Sep. 2013 - Jun. 2015
-      * Major: Information Science
+      * Information Science
       * [School of Information Resource Management](http://sirm.ruc.edu.cn/)
       * [Renmin University of China](https://www.ruc.edu.cn/en)
   * B.S., Sep. 2009 - Jun. 2013
