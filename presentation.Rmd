@@ -13,7 +13,6 @@ output:
       in_header: "favicon.html" 
 ---
 
-Homework is not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
 
 ***
 ## Invited Presentations
