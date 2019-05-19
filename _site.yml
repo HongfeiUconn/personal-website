@@ -20,5 +20,5 @@ navbar:
       href: https://www.business.uconn.edu/person/hongfei-li/   
 output:
   html_document:
-    theme: cosmo 
+    theme: cosmo
     highlight: textmate
