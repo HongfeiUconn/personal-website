@@ -17,7 +17,8 @@ navbar:
     - icon: fa-github fa-lg
       href: https://github.com/HongfeiUconn/
     - icon: fa-user-circle-o fa-lg
-      href: https://www.business.uconn.edu/person/hongfei-li/   
+      href: https://www.business.uconn.edu/person/hongfei-li/
+      
 output:
   html_document:
     theme: cosmo

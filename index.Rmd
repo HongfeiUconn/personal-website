@@ -1,5 +1,5 @@
 ---
-title: "Hongfei Li (李鸿飞), Ph.D. Candidate"
+title: "Hongfei Li, Ph.D. Candidate"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
