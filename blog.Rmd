@@ -1,0 +1,19 @@
+---
+title: "Blog"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'blog.html'))})
+date: "Last Updated: `r format(Sys.time(), '%B %e, %Y')`"
+fontsize: 12pt
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html" 
+---
+
+***
+
+[A Tutorial to Multi-view Sequential Canonical Covariance Analysis](https://hongfeiuconn.github.io/MultiSeqCCoA_Tutorial/)
+

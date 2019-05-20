@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ***
-## About Me (<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>)
+## Biography (<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>)
 
 <div class = "row">
 <div class = "col-md-6">
@@ -56,3 +56,11 @@ Hongfei Li is a fourth-year Ph.D. student from [Department of Operations and Inf
       * [School of Information Resource Management](http://sirm.ruc.edu.cn/)
       * [Renmin University of China](https://www.ruc.edu.cn/en)
 
+## Contact
+
+* Email: <a href="mailto:hongfei.li@uconn.edu">hongfei.li@uconn.edu</a>
+
+* Address: UConn School of Business, OPIM Department, 2100 Hillside Road, Unit 1041
+Storrs, CT 06269
+
+* Tel: +1(860)617-9457

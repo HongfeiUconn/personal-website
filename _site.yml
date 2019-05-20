@@ -10,8 +10,11 @@ navbar:
       href: teaching.html
     - text: "Presentation"
       href: presentation.html
-    - text: "Contact"
-      href: contact.html
+    - text: "Blog"
+      href: blog.html    
+    - text: "About Me"
+      href: aboutme.html
+
 
   right:
     - icon: fa-github fa-lg
