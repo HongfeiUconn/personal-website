@@ -81,6 +81,33 @@ radarchart( data  , axistype=1 ,
 )
 ```
 
+***
+## Personal Life
+
+#### My parents and me
+
+![](family.jpg){width=400px}
+
+
+&nbsp;
+
+#### Running in track and field
+![](athlete.jpg){width=400px}
 
 
 
+
+&nbsp;
+
+#### Playing the piano
+![](piano.jpg){width=400px}
+
+
+
+
+
+
+&nbsp;
+
+#### Travelling around China
+![](travel.jpg){width=400px}
