@@ -13,7 +13,15 @@ output:
       in_header: "favicon.html" 
 ---
 
+The Blog Module introduces my research findings or applications. I am glad to share my research with colleagues and please feel free to leave your suggestions. 
+
+
 ***
 
-[A Tutorial to Multi-view Sequential Canonical Covariance Analysis](https://hongfeiuconn.github.io/MultiSeqCCoA_Tutorial/)
+* [A Tutorial to Multi-view Sequential Canonical Covariance Analysis](https://hongfeiuconn.github.io/MultiSeqCCoA_Tutorial/)
 
+This blog is a tutorial for Multi-view Sequential Canonical Covariance Analysis (__MultiSeqCCoA__). MultiSeqCCoA is a multivariate analysis approach designed for time-series data. This novel technique is proposed in one of my working papers:
+
+> "Cao X, Folta T, Li H, Zhu R (2019) A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis"
+
+ 

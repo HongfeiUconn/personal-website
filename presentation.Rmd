@@ -13,21 +13,24 @@ output:
       in_header: "favicon.html" 
 ---
 
+During my Ph.D. career, I have presented my research work in several conferences on information systems, including INFORMS Annual Meeting, Symposium on Statistical Challenges in E-Commerce Research (SCECR), Conference on Information Systems and Technology (CIST), and China Summer Workshop on Information Management (CSWIM).
 
 ***
 ## Invited Presentations
 
-* “Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform”, INFORMS Annual Meeting (Session: Social Media Analytics I), Houston, Texas, October 22-25, 2017.
+* “[Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform](https://www.abstractsonline.com/pp8/#!/4471/presentation/9999)”, INFORMS Annual Meeting (Session: Social Media Analytics I), Houston, Texas, October 22-25, 2017.
 
-* “Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities”, SCECR 2018 (Session: Crowds), Rotterdam, Netherlands, June 18-19, 2018.
+* “[Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities](http://2018.scecr.org/program/)”, SCECR 2018 (Session: Crowds), Rotterdam, Netherlands, June 18-19, 2018.
 
-* “Online Diaries and Risky Products”, CIST 2018 (Session: Healthcare), Phoenix, Arizona, November 3-4, 2018.
+* “[Online Diaries and Risky Products](http://cist2018.conferency.com/wp-content/uploads/2017/01/CIST-2018-Printable-Sheet1-2.pdf)”, CIST 2018 (Session: Healthcare), Phoenix, Arizona, November 3-4, 2018.
 
-* “Online Diaries and Professional Service”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+* “[Online Diaries and Professional Service](http://2019.scecr.org/wp-content/uploads/2019/05/SCECR2019-Conference-Brochure.pdf)”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
 
-* “The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+* “[The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries](http://2019.scecr.org/wp-content/uploads/2019/05/SCECR2019-Conference-Brochure.pdf)”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
 
-* “A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+* “[A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis](http://2019.scecr.org/wp-content/uploads/2019/05/SCECR2019-Conference-Brochure.pdf)”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
+
+* “Disentangling the effect of Reciprocity on Online Knowledge Sharing Communities”, CSWIM 2019, Shenzhen, China, June 29-30, 2019.
 
 * “What Can Images Tell Us: A Prediction Study based on Facial Analysis”, INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
 
