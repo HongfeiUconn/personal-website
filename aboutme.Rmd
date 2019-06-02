@@ -17,6 +17,8 @@ output:
 
 ## Coding Ability
 
+My undergraduate and master career mainly covered courses in computer science, such as assembly language, C++, Java and JSP, data structure, and database design. Currently I focus on R, Python, SQL, and Stata in most of my research.
+
 ```{r,  echo = FALSE, warning = FALSE}
 library(data.table)
 library(fmsb)
@@ -27,6 +29,28 @@ radarchart( data  , axistype=1 ,
             
             #custom polygon
             pcol=rgb(0.2,0.5,0.5,0.9) , pfcol=rgb(0.2,0.5,0.5,0.5) , plwd=4 , 
+            
+            #custom the grid
+            cglcol="grey", cglty=1, axislabcol="grey", caxislabels=seq(0,120,25), cglwd=0.8,
+            
+            #custom labels
+            vlcex=1.3 
+)
+```
+
+
+## Subjects
+
+```{r,  echo = FALSE, warning = FALSE}
+library(data.table)
+library(fmsb)
+data = fread("subject.csv")
+
+# Custom the radarChart !
+radarchart( data  , axistype=1 , 
+            
+            #custom polygon
+            pcol=rgb(0.9,0.5,0.5,0.9) , pfcol=rgb(0.9,0.5,0.5,0.5) , plwd=4 , 
             
             #custom the grid
             cglcol="grey", cglty=1, axislabcol="grey", caxislabels=seq(0,120,25), cglwd=0.8,
@@ -48,27 +72,6 @@ radarchart( data  , axistype=1 ,
             
             #custom polygon
             pcol=rgb(0.4,0.5,0.5,0.9) , pfcol=rgb(0.4,0.5,0.5,0.5) , plwd=4 , 
-            
-            #custom the grid
-            cglcol="grey", cglty=1, axislabcol="grey", caxislabels=seq(0,120,25), cglwd=0.8,
-            
-            #custom labels
-            vlcex=1.3 
-)
-```
-
-## Subjects
-
-```{r,  echo = FALSE, warning = FALSE}
-library(data.table)
-library(fmsb)
-data = fread("subject.csv")
-
-# Custom the radarChart !
-radarchart( data  , axistype=1 , 
-            
-            #custom polygon
-            pcol=rgb(0.9,0.5,0.5,0.9) , pfcol=rgb(0.9,0.5,0.5,0.5) , plwd=4 , 
             
             #custom the grid
             cglcol="grey", cglty=1, axislabcol="grey", caxislabels=seq(0,120,25), cglwd=0.8,
