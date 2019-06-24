@@ -37,11 +37,14 @@ My research interest focuses on three aspects. First, I am interested in studyin
 ## Work Papers
 * “Demand Effect of Ex Post Risk-Reduction Mechanism: Evidence from Complications Insurance for Cosmetic Surgeries,” (with Jing Peng, Xinxin Li, and Jan Stallaert), targeted at [Information Systems Research](https://pubsonline.informs.org/journal/isre) (target Submission Date: Summer 2019)
 
+* “Face Prediction for Cosmetic Surgeries,” (with Fangda Han, Shun-Yang Lee, and Jing Peng), targeted at [MIS Quarterly: Special Issue on Management AI](https://www.misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf) (target Submission Date: November 2019)
+
 *** 
 
 ## Work in Progress
-* “The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge,” (with Jing Peng and Ramesh Shankar).
-* “What Can Images Tell Us: A Prediction Study based on Facial Analysis,” (with Fangda Han, Shun-Yang Lee, and Jing Peng).
+* “The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge,” (with Jing Peng and Ramesh Shankar). Progress: data collection finished
+
+* “Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis,” (with Xian Cao). Progress: data collection finished
 
 
 ***
