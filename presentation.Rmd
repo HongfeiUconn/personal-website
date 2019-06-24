@@ -30,7 +30,7 @@ During my Ph.D. career, I have presented my research work in several conferences
 
 * “[A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis](http://2019.scecr.org/wp-content/uploads/2019/05/SCECR2019-Conference-Brochure.pdf)”, SCECR 2019, Hong Kong, China, June 11-12, 2019.
 
-* “Disentangling the effect of Reciprocity on Online Knowledge Sharing Communities”, CSWIM 2019, Shenzhen, China, June 29-30, 2019.
+* “[Disentangling the effect of Reciprocity on Online Knowledge Sharing Communities](http://2019.cswimworkshop.org/wp-content/uploads/2017/01/CSWIM-2019-Program_Final.pdf)”, CSWIM 2019, Shenzhen, China, June 29-30, 2019.
 
 * “What Can Images Tell Us: A Prediction Study based on Facial Analysis”, INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
 
