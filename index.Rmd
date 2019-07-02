@@ -31,10 +31,9 @@ knitr::include_graphics("hongfei.png")
 ```
 </div>
 <div class = "col-md-6">
-Hongfei Li is a fourth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/). His current research focuses on three main streams: causal inference in two-sided platforms, artificial intelligence adoption in professional service, and statistical computing in information systems. He has one paper under the second-round review in [ACM Transaction in MIS](https://tmis.acm.org/). He also has two papers under first-round review in [Information Systems Research](https://pubsonline.informs.org/journal/isre) and [Management Science](https://pubsonline.informs.org/journal/mnsc). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
+#### Hongfei Li is a fourth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/). His current research focuses on three main streams: causal inference in two-sided platforms, artificial intelligence adoption in professional service, and statistical computing in information systems. He has one paper under the second-round review in [ACM Transaction in MIS](https://tmis.acm.org/). He also has two papers under first-round review in [Information Systems Research](https://pubsonline.informs.org/journal/isre) and [Management Science](https://pubsonline.informs.org/journal/mnsc). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
 </div>
 </div>
-
 
 ***
 
