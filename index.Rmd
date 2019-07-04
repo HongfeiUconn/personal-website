@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class = "row">
 <div class = "col-md-6">
 ```{r, out.width = '70%', out.extra='style="float: left"', echo=FALSE}
-knitr::include_graphics("hongfei.png")
+knitr::include_graphics("hongfei.jpg")
 ```
 </div>
 <div class = "col-md-6">
