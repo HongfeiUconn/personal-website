@@ -41,6 +41,8 @@ radarchart( data  , axistype=1 ,
 
 ## Subjects
 
+I am a fan of quantitative methods so I love subjects related to mathematics and statistics. I am also sort of talented at languages. I learned Japanese by myself and passed one of the most difficult Japanese language tests N1 in just one year.
+
 ```{r,  echo = FALSE, warning = FALSE}
 library(data.table)
 library(fmsb)
@@ -61,6 +63,8 @@ radarchart( data  , axistype=1 ,
 ```
 
 ## Hobbies
+
+I love classical music and am interested in playing instruments. I hate travelling mainly because I struggle with jet lag all the time.
 
 ```{r,  echo = FALSE, warning = FALSE}
 library(data.table)
