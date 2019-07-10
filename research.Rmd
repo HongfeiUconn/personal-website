@@ -15,11 +15,11 @@ output:
 
 ## Research Interest
 
-* **Causal inference in two-sided platforms**
-* **Artificial intelligence adoption in professional service**
-* **Statistical computing in information systems**
+* **Economics of Information Systems**
+* **Applications of Artificial Intelligence and Machine Learning**
+* **Statistical Methodology**
 
-My research interest focuses on three aspects. First, I am interested in studying business policy in online platforms, especially knowledge contribution platform and e-commerce platform. Identifying causality is critical for policy making. I am familiar with using econometric tools for causal inference with observational data. My first-year paper and all three essays in my dissertation have adopted some causal inference tools, such as difference-in-differences with matching, instrumental variable, and random experiment design—A/B testing. Second, the adoption of machine learning and deep learning enriches IS research. The second essay of my dissertation and the statistical paper apply several natural language processing approaches. The third essay uses an artificial intelligence tool to perform image prediction. I consider the adoption of AI in IS as a trend and with a bright future. I am interested in studying related topics. Third, I have a relatively solid background in applied statistics. I am fond of applying statistical tools under the IS context. I have one paper under review in [Management Science](https://pubsonline.informs.org/journal/mnsc) and this paper makes refinement on conventional canonical correlation analysis and tries to solve dimension reduction problem under social media context, which contains high-dimensional information with numerous variables. One of my advantages is that I have experience in both IS-behavior and IS-econ studies. My master’s thesis is a typical behavioral study using expectation-confirmation model to study online users’ continuous participant with structural equation model. My PhD career mainly focuses on IS-econ, but I am still interested in behavioral and psychological study and the third essay in my dissertation is a behavioral paper. 
+My research interest focuses on three aspects. First, I am interested in the economics of online platforms, especially knowledge contribution platform and e-commerce platform. Identifying causality is critical for policy making. I am familiar with using econometric tools for causal inference with observational data. My first-year paper and all three essays in my dissertation have adopted some causal inference tools, such as difference-in-differences with matching, instrumental variable, and random experiment design—A/B testing. Second, the adoption of machine learning and deep learning enriches IS research. The second essay of my dissertation and the statistical paper apply several natural language processing approaches. The third essay uses an artificial intelligence tool to perform image prediction. I consider the adoption of AI in IS as a trend and with a bright future. I am interested in studying related topics. Third, I have a relatively solid background in applied statistics. I am fond of applying statistical tools under the IS context. I have one paper under review in [Management Science](https://pubsonline.informs.org/journal/mnsc) and this paper makes refinement on conventional canonical correlation analysis and tries to solve dimension reduction problem under social media context, which contains high-dimensional information with numerous variables. One of my advantages is that I have experience in both IS-behavior and IS-econ studies. My master’s thesis is a typical behavioral study using expectation-confirmation model to study online users’ continuous participant with structural equation model. My PhD career mainly focuses on IS-econ, but I am still interested in behavioral and psychological study and the third essay in my dissertation is a behavioral paper. 
 
 ***
 
@@ -34,7 +34,7 @@ My research interest focuses on three aspects. First, I am interested in studyin
 
 ***
 
-## Work Papers
+## Working Papers
 * “Demand Effect of Ex Post Risk-Reduction Mechanism: Evidence from Complications Insurance for Cosmetic Surgeries,” (with Jing Peng, Xinxin Li, and Jan Stallaert), targeted at [Information Systems Research](https://pubsonline.informs.org/journal/isre) (target Submission Date: Summer 2019)
 
 * “Face Prediction for Cosmetic Surgeries,” (with Fangda Han, Shun-Yang Lee, and Jing Peng), targeted at [MIS Quarterly: Special Issue on Management AI](https://www.misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf) (target Submission Date: November 2019)
