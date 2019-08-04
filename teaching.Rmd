@@ -28,7 +28,7 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
     * Spring 2018
     * School of Business, University of Connecticut
     * class size: 136 
-    * Teaching evaluation: 4 out of 5 
+    * Teaching evaluation: 4.3 out of 5 
     * Main Contents
         * Decision-making tools 
         * Inventory management 
@@ -39,13 +39,13 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
     * Summer 2018
     * School of Business, University of Connecticut
     * class size: 15 
-    * Teaching evaluation: 5 out of 5 
+    * Teaching evaluation: 5.0 out of 5 
 
 * Business Information Systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)) 
     * Fall 2018
     * School of Business, University of Connecticut
     * class size: 41 
-    * Teaching evaluation: 3 out of 5 
+    * Teaching evaluation: 3.9 out of 5 
     * Main Contents
         * SQL 
         * Microsoft Access 
