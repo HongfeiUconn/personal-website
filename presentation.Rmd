@@ -1,5 +1,5 @@
 ---
-title: "Presentation"
+title: "Conference Presentations"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -16,7 +16,6 @@ output:
 During my Ph.D. career, I have presented my research work in several conferences on information systems, including INFORMS Annual Meeting, Symposium on Statistical Challenges in E-Commerce Research (SCECR), Conference on Information Systems and Technology (CIST), and China Summer Workshop on Information Management (CSWIM).
 
 ***
-## Conference Presentations
 
 1) Hongfei Li, Jing Peng, Gang Wang, Xue Bai. [Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform](https://www.abstractsonline.com/pp8/#!/4471/presentation/9999). INFORMS Annual Meeting (Session: Social Media Analytics I), Houston, Texas, October 22-25, 2017.
 
