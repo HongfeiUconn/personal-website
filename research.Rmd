@@ -13,38 +13,40 @@ output:
 
 ***
 
-## Research Interest
+## Research Interests
 
-* **Economics of Information Systems**
-* **Applications of Artificial Intelligence and Machine Learning**
+* **Business analytics in emerging online platforms**
+* **Applications of Machine Learning**
 * **Statistical Methodology**
 
-My research interest focuses on three aspects. First, I am interested in the economics of online platforms, especially knowledge contribution platform and e-commerce platform. Identifying causality is critical for policy making. I am familiar with using econometric tools for causal inference with observational data. My first-year paper and all three essays in my dissertation have adopted some causal inference tools, such as difference-in-differences with matching, instrumental variable, and random experiment design—A/B testing. Second, the adoption of machine learning and deep learning enriches IS research. The second essay of my dissertation and the statistical paper apply several natural language processing approaches. The third essay uses an artificial intelligence tool to perform image prediction. I consider the adoption of AI in IS as a trend and with a bright future. I am interested in studying related topics. Third, I have a relatively solid background in applied statistics. I am fond of applying statistical tools under the IS context. I have one paper under review in [Management Science](https://pubsonline.informs.org/journal/mnsc) and this paper makes refinement on conventional canonical correlation analysis and tries to solve dimension reduction problem under social media context, which contains high-dimensional information with numerous variables. One of my advantages is that I have experience in both IS-behavior and IS-econ studies. My master’s thesis is a typical behavioral study using expectation-confirmation model to study online users’ continuous participant with structural equation model. My PhD career mainly focuses on IS-econ, but I am still interested in behavioral and psychological study and the third essay in my dissertation is a behavioral paper. 
+My current research focuses on three main streams: business analytics in emerging online platforms such as platforms for professional services and paid Q&A, applications of artificial intelligence and machine learning, and statistical methodology. As of the spring semester of my fourth year (Spring 2019), I have generated four completed papers. My first paper is a causal inference study on knowledge contribution in StackOverflow, submitted to [ACM Transaction in MIS](https://tmis.acm.org/) (under revision for the third-round review). My second paper (Essay 1 in my dissertation) is the study of a novel form of eWOM, under review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). In my third year, I started two projects—one is about the impact of complications insurance on the demand of cosmetic surgeries (Essay 2 in my dissertation), and the other one is about statistical methods and applications, in which we create a new dimension-reduction method accounting for the time dimension under social media context. The paper about insurance is under review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and the statistical paper is ready to submit to [Management Science](https://pubsonline.informs.org/journal/mnsc). Currently I also have one working paper and several work-in-progress papers.
+
+One of my advantages is that I have experience in both IS-behavior and IS-econ studies. My master’s thesis is a typical behavioral study using expectation-confirmation model to study online users’ continuous participant with structural equation model. My PhD career mainly focuses on IS-econ, but I am still interested in behavioral and psychological study and the third essay in my dissertation is a behavioral paper. 
 
 ***
 
-## Manuscripts under Review
+## Papers under Review
 
-* “Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities” (with Ramesh Shankar, Jan Stallaert), submitted to [ACM Transactions on Management Information Systems](https://tmis.acm.org/), invited for 3rd round review.
 
-* “Online Diaries and Professional Service” (with Jing Peng, Gang Wang, Xue Bai), submitted to [Information Systems Research](https://pubsonline.informs.org/journal/isre), under 1st round review.
+* Hongfei Li, Ramesh Shankar, Jan Stallaert. Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities. Under Revision for 3rd Round Review at [ACM Transactions on Management Information Systems](https://tmis.acm.org/).
 
-* “A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis,” (with Xian Cao, Timothy Folta, and Ruoqing Zhu), submitted to [Management Science](https://pubsonline.informs.org/journal/mnsc), under 1st round review.
+* Hongfei Li, Jing Peng, Gang Wang, Xue Bai. Online Diaries and Professional Service. Under Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
+* Hongfei Li, Jing Peng, Xinxin Li, Jan Stallaert. When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services. Under Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
 ***
 
 ## Working Papers
-* “Demand Effect of Ex Post Risk-Reduction Mechanism: Evidence from Complications Insurance for Cosmetic Surgeries,” (with Jing Peng, Xinxin Li, and Jan Stallaert), targeted at [Information Systems Research](https://pubsonline.informs.org/journal/isre) (target Submission Date: Summer 2019)
+* Xian Cao, Timothy Folta, Hongfei Li, Ruoqing Zhu (equal contribution). A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis. Targeted at [Management Science](https://pubsonline.informs.org/journal/mnsc) (Estimated Submission Date: August 2019) 
 
-* “Face Prediction for Cosmetic Surgeries,” (with Fangda Han, Shun-Yang Lee, and Jing Peng), targeted at [MIS Quarterly: Special Issue on Management AI](https://www.misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf) (target Submission Date: November 2019)
+* Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng (equal contribution). Face Prediction for Cosmetic Surgeries. Targeted at [MIS Quarterly: Special Issue on Management AI](https://www.misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf) (Estimated Submission Date: November 2019)
 
 *** 
 
 ## Work in Progress
-* “The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge,” (with Jing Peng and Ramesh Shankar). Progress: data collection finished
 
-* “Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis,” (with Xian Cao). Progress: data collection finished
+* Hongfei Li, Jing Peng, Ramesh Shankar. The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge. Status: data collection finished
+* Xian Cao, Hongfei Li. Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis. Status: data collection finished
 
 
 ***
