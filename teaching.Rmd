@@ -25,6 +25,7 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
 ## Teaching Experience
 
 * Operations Management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 
+    * Self-built course website: https://hongfeiuconn.github.io/OPIM3104/
     * Spring 2018
     * School of Business, University of Connecticut
     * class size: 136 
@@ -36,12 +37,14 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
         * Forecasting
         
 * Operations Management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 
+    * Self-built course website: https://hongfeiuconn.github.io/OPIM3104/
     * Summer 2018
     * School of Business, University of Connecticut
     * class size: 15 
     * Teaching evaluation: 5.0 out of 5 
 
 * Business Information Systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)) 
+    * Self-built course website: https://hongfeiuconn.github.io/OPIM3103/
     * Fall 2018
     * School of Business, University of Connecticut
     * class size: 41 
