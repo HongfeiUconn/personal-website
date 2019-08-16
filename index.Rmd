@@ -37,7 +37,7 @@ knitr::include_graphics("hongfei.png")
 * Applications of artificial intelligence and machine Learning 
 * Statistical methodology
 
-#### He has one paper under revision for the third-round review in [ACM Transaction in MIS](https://tmis.acm.org/). He also has two papers under review in [Information Systems Research](https://pubsonline.informs.org/journal/isre). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
+#### He has one paper under revision for the third-round review in [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review in [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review in [Information Systems Research](https://pubsonline.informs.org/journal/isre). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
 </div>
 </div>
 
