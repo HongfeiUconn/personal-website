@@ -31,7 +31,7 @@ knitr::include_graphics("hongfei.png")
 ```
 </div>
 <div class = "col-md-6">
-#### Hongfei Li is a Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/). He will start his fifth year in Fall 2019 and he expects to graduate by May 2020. His current research focuses on three main streams: 
+#### Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [University of Connecticut](https://uconn.edu/). He expects to graduate by May 2020. His current research focuses on three main streams: 
 
 * Business analytics in emerging online platforms
 * Applications of artificial intelligence and machine Learning 
