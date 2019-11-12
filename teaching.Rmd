@@ -69,7 +69,13 @@ alldates <- seq.Date(as.Date("2018-08-27"), length = totalweeks, by='1 weeks')
 
 
 ***
+## Workshop
 
+* Introduction to Neural Network
+    * Fall 2019
+    * School of Business, University of Connecticut
+
+***
 ## Teaching Interests
 
 I am interested in technical courses related to mathematics, statistics, econometrics, and computer language in business application. The technical knowledge can help students thoroughly understand the business tools they are using. In my opinion, although business students do not have to fully master the very basic details behind the technical tools, statistical software, or well-built packages, they at least need to know what happens behind the technique and how to interpret the analysis results.
