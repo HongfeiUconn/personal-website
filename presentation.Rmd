@@ -13,7 +13,7 @@ output:
       in_header: "favicon.html" 
 ---
 
-During my Ph.D. career, I have presented my research work in several conferences on information systems, including INFORMS Annual Meeting, Symposium on Statistical Challenges in E-Commerce Research (SCECR), Conference on Information Systems and Technology (CIST), and China Summer Workshop on Information Management (CSWIM).
+During my Ph.D. career, I have presented my research work in several conferences on information systems, including INFORMS Annual Meeting, Symposium on Statistical Challenges in E-Commerce Research (SCECR), Conference on Information Systems and Technology (CIST), Workshop on Information Technologies and Systems (WITS), and China Summer Workshop on Information Management (CSWIM).
 
 ***
 
@@ -31,7 +31,8 @@ During my Ph.D. career, I have presented my research work in several conferences
 
 7) Hongfei Li, Ramesh Shankar, Jan Stallaert. [Disentangling the effect of Reciprocity on Online Knowledge Sharing Communities](http://2019.cswimworkshop.org/wp-content/uploads/2017/01/CSWIM-2019-Program_Final.pdf). CSWIM 2019, Shenzhen, China, June 29-30, 2019.
 
-8) Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng. What Can Images Tell Us: A Prediction Study based on Facial Analysis. INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
+8) Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng. [What Can Images Tell Us: A Prediction Study based on Facial Analysis](https://www.abstractsonline.com/pp8/#!/6818/presentation/4298). INFORMS Annual Meeting (Session: Artificial Intelligence and Machine Learning in Service), Seattle, Washington, October 20-23, 2019.
 
-9) Hongfei Li, Jing Peng, Gang Wang, Xue Bai. Disentangling the Effect of Longitudinal Consumer Reviews on Professional Service. INFORMS Annual Meeting (Session: Business Transformation in the Age of Analytics), Seattle, Washington, October 20-23, 2019.
+9) Hongfei Li, Jing Peng, Gang Wang, Xue Bai. [Disentangling the Effect of Longitudinal Consumer Reviews on Professional Service](https://www.abstractsonline.com/pp8/#!/6818/presentation/9694). INFORMS Annual Meeting (Session: Business Transformation in the Age of Analytics), Seattle, Washington, October 20-23, 2019.
 
+10) Hongfei Li, Jing Peng, Xinxin Li, Jan Stallaert. When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services. WITS 2019, Munich, Germany, December 18-20, 2019.

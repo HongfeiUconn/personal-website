@@ -27,29 +27,29 @@ One of my advantages is that I have experience in both IS-behavior and IS-econ s
 
 ***
 
+## Publications
+
+* Hongfei Li, Ramesh Shankar, Jan Stallaert. Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities. [ACM Transactions on Management Information Systems](https://tmis.acm.org/). Forthcoming. (<a href="Invested or Indebted-Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities.pdf#" class="download" title="Download Paper as PDF">Download Paper</a>)
+
+***
+
 ## Papers under Review
-
-
-* Hongfei Li, Ramesh Shankar, Jan Stallaert. Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities. Under 3rd Round Review at [ACM Transactions on Management Information Systems](https://tmis.acm.org/).
 
 * Hongfei Li, Jing Peng, Gang Wang, Xue Bai. Online Diaries and Professional Service. Under Revision for 2nd Round Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
 * Hongfei Li, Jing Peng, Xinxin Li, Jan Stallaert. When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services. Under Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
-* Xian Cao, Timothy Folta, Hongfei Li, Ruoqing Zhu (equal contribution). Analyzing the Online Word of Mouth Dynamics: A Novel Approach. Under Review at [MIS Quarterly](https://www.misq.org/)
+* Xian Cao, Timothy Folta, Hongfei Li, Ruoqing Zhu (equal contribution). Analyzing the Online Word of Mouth Dynamics: A Novel Approach. Under Review at [MIS Quarterly](https://www.misq.org/).
 
 ***
 
-## Working Papers
-
-* Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng (equal contribution). Face Prediction for Cosmetic Surgeries. Targeted at [MIS Quarterly: Special Issue on Management AI](https://www.misq.org/skin/frontend/default/misq/pdf/CurrentCalls/ManagingAI.pdf) (Estimated Submission Date: November 2019)
-
-*** 
-
 ## Work in Progress
 
-* Hongfei Li, Jing Peng, Ramesh Shankar. The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge. Status: data collection finished
-* Xian Cao, Hongfei Li. Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis. Status: data collection finished
+* Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng (equal contribution). Face Prediction for Cosmetic Surgeries. Status: experiment design finished and apply for IRB.
+
+* Hongfei Li, Jing Peng, Ramesh Shankar. The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge. Status: data collection finished.
+
+* Xian Cao, Hongfei Li. Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis. Status: data collection finished.
 
 
 ***
