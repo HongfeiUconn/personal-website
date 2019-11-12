@@ -37,6 +37,8 @@ One of my advantages is that I have experience in both IS-behavior and IS-econ s
 
 * Hongfei Li, Jing Peng, Gang Wang, Xue Bai. Online Diaries and Professional Service. Under Revision for 2nd Round Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
+* Qing Cao, Xian Cao, Hongfei Li, Zeki Simsek (equal contribution). Can Ownership be Seductively Destructive? Unpacking the Relationship between CEO Stock Ownership and at-IPO discretionary Earnings Management. Reject and Resubmit at [Organization Science](https://pubsonline.informs.org/journal/orsc). 
+
 * Hongfei Li, Jing Peng, Xinxin Li, Jan Stallaert. When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services. Under Review at [Information Systems Research](https://pubsonline.informs.org/journal/isre).
 
 * Xian Cao, Timothy Folta, Hongfei Li, Ruoqing Zhu (equal contribution). Analyzing the Online Word of Mouth Dynamics: A Novel Approach. Under Review at [MIS Quarterly](https://www.misq.org/).
@@ -47,10 +49,13 @@ One of my advantages is that I have experience in both IS-behavior and IS-econ s
 
 * Fangda Han, Shun-Yang Lee, Hongfei Li, Jing Peng (equal contribution). Face Prediction for Cosmetic Surgeries. Status: experiment design finished and apply for IRB.
 
-* Hongfei Li, Jing Peng, Ramesh Shankar. The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge. Status: data collection finished.
+* Hongfei Li, Jing Peng, Ramesh Shankar. The Value of Information: A Comparison Study between Ex ante and Ex post Consumption of Knowledge. Status: data analysis.
 
-* Xian Cao, Hongfei Li. Detecting Gender Difference in Entrepreneurs by Data Envelopment Analysis. Status: data collection finished.
+* Xiao Cao, Frédéric Delmar, Hongfei Li, Matt Marvel (equal contribution). Quantifying the Concealed and Subtle Discrimination Female Entrepreneurs Face During the Venturing Process. Status: data collection finished.
 
+* Yixuan Ma, Hongfei Li, Xinxin Li. Does Boasting Benefit? Evidence from Online Labor Market. Status: data analysis.
+
+* Xian Cao, Hongfei Li, Qi Qi, Ruoqing Zhu (equal contribution).  Filling NA in Longitudinal Data with Machine Learning. Status: real data collected finished and algorithm design.
 
 ***
 
